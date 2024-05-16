@@ -1,4 +1,5 @@
-Netflix Stock Price Prediction
+**Netflix Stock Price Prediction
+**
 Overview
 This project aims to predict the future price movements of Netflix (NFLX) stock using machine learning techniques and historical stock data. By leveraging advanced algorithms and data analysis, we seek to provide valuable insights into potential trends in Netflix's stock market performance, aiding investors and financial analysts in making informed decisions.
 
@@ -14,7 +15,7 @@ Prediction and insights: Generated predictions for future Netflix stock prices a
 Installation
 Clone the repository:
 bash
-git clone https://github.com/your_username/netflix-stock-price-prediction.git
+git clone [https://github.com/your_username/netflix-stock-price-prediction.git](https://github.com/sahilkumar12334/Netfilix-Stock-Price-prediction/tree/main)
 Install the required dependencies:
 pip install -r requirements.txt
 Usage
