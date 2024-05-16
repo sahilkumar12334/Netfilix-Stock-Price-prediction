@@ -1,5 +1,7 @@
 **Netflix Stock Price Prediction
 **
+
+
 Overview
 This project aims to predict the future price movements of Netflix (NFLX) stock using machine learning techniques and historical stock data. By leveraging advanced algorithms and data analysis, we seek to provide valuable insights into potential trends in Netflix's stock market performance, aiding investors and financial analysts in making informed decisions.
 
