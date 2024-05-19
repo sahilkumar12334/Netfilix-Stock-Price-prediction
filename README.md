@@ -7,11 +7,17 @@ This project aims to predict the future price movements of Netflix (NFLX) stock 
 
 Features
 Data collection: Gathered historical stock data for Netflix from reliable sources.
+
 Data preprocessing: Cleaned and formatted the data to ensure compatibility with machine learning algorithms.
+
 Exploratory data analysis (EDA): Conducted thorough analysis to understand the characteristics and patterns within the dataset.
+
 Feature engineering: Extracted relevant features and engineered new ones to improve model performance.
+
 Model selection: Evaluated various machine learning algorithms such as linear regression, decision trees, and neural networks to identify the best-performing model.
+
 Model training and evaluation: Trained the selected model on the dataset and evaluated its performance using appropriate metrics.
+
 Prediction and insights: Generated predictions for future Netflix stock prices and provided actionable insights based on model outputs.
 
 Installation
